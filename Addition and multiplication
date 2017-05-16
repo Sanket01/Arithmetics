@@ -8,4 +8,5 @@ int sum=a+b+c;
 int mult=a*b*c;
 cout<<sum;
 cout<<mult;
+return 0;
 }
